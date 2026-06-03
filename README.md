@@ -166,6 +166,3 @@ The model achieved over **80% classification accuracy** on unseen test data.
 ---
 
 
-
-
-Computer Science Student | Aspiring Data Analyst / Data Scientist
